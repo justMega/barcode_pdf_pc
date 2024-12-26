@@ -1,4 +1,4 @@
-# BARCODE PDF PC
+# BARCODE PDF RENAMER
 
 This application is designed to rename PDF documents to the value contained in the barcode found in the PDF 
 
